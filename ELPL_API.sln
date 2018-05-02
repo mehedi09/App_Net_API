@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELPL_API", "ELPL_API\ELPL_API.csproj", "{F5FFA987-C79E-4931-8C85-FCEE1286A8A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5FFA987-C79E-4931-8C85-FCEE1286A8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FFA987-C79E-4931-8C85-FCEE1286A8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FFA987-C79E-4931-8C85-FCEE1286A8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FFA987-C79E-4931-8C85-FCEE1286A8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5C0DC9B-B49D-488B-BC3C-E2007F64D2A0}
+	EndGlobalSection
+EndGlobal
